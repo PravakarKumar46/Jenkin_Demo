@@ -1,4 +1,4 @@
-//pluginManagement {
+pluginManagement {
     repositories {
         google {
             content {
@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-//rootProject.name = "Jenkin  Demo"
-//include(":app")
+rootProject.name = "Jenkin  Demo"
+include(":app")
  
