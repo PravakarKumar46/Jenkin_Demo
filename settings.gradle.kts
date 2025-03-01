@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Jenkin  Demo"
-include(":app")
+//rootProject.name = "Jenkin  Demo"
+//include(":app")
  
