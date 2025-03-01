@@ -21,7 +21,7 @@ class MainActivity : ComponentActivity() {
             JenkinDemoTheme {
                 Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
                     Greeting(
-                        name = "Jenkins!!",
+                        name = "Pravakar!!",
                         modifier = Modifier.padding(innerPadding)
                     )
                 }
